@@ -394,7 +394,7 @@ The test suite currently covers:
 
 The current verified result is:
 
-- 7 tests passed
+- 8 tests passed
 
 ---
 
